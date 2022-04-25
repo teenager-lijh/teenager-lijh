@@ -11,7 +11,7 @@
 | 蓝莓的破代码 [代码仓](https://github.com/teenager-lijh/Some-Broken-Code) |                |
 | 蓝莓的笔记本 [代码仓](https://github.com/teenager-lijh/Notebook) |                |
 | 蓝莓刷个题 [代码仓](https://github.com/teenager-lijh/LeetCode) |                |
-| 一个操作系统内核的实现 [代码仓](                             |                |
+| 一个操作系统内核的实现 [代码仓](https://github.com/teenager-lijh/LeetCode) |                |
 
 
 

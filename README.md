@@ -26,7 +26,7 @@
 
 蓝莓的笔记本 [代码仓](https://github.com/teenager-lijh/Notebook)
 
-一个操作系统内核的实现 [代码仓](https://github.com/teenager-lijh/LeetCode)
+一个操作系统内核的实现 [代码仓](https://github.com/teenager-lijh/Build-Your-Own-Operating-System)
 
 </td>
 

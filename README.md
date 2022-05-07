@@ -14,6 +14,8 @@
 
 蓝莓的博客 [酷酷的算法](https://github.com/teenager-lijh/My-Blog)
 
+蓝莓的商学院 [酷酷的算法](https://github.com/teenager-lijh/Business-College)
+
 </td>
 
 <td valign="top">

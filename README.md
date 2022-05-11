@@ -30,6 +30,8 @@
 
 一个操作系统内核的实现 [代码仓](https://github.com/teenager-lijh/Build-Your-Own-Operating-System)
 
+机器学习入门 [代码仓](https://github.com/teenager-lijh/Play-With-Machine-Learning)
+
 </td>
 
 </tr></table>

@@ -32,6 +32,10 @@
 
 机器学习入门 [代码仓](https://github.com/teenager-lijh/Play-With-Machine-Learning)
 
+蓝莓学深度学习 [代码仓](https://github.com/teenager-lijh/Dive-Into-Deep-Learning)
+
+蓝莓学概率统计 [代码仓](https://github.com/teenager-lijh/Play-Statistics)
+
 </td>
 
 </tr></table>

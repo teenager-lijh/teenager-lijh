@@ -6,6 +6,12 @@
 
 如果你想关注我，可以在微信公众号 **酷酷的算法** 找到我，也可以添加我的微信 **BlueBerryuo** : )
 
+Hello, welcome to my small universe.
+
+I'm blueberry, studying for a master's degree in computer science. I'm a computer enthusiast and have a dream of starting a business.
+
+If you want to contact me, you can send an email to my Google mailbox: teenagerlijh@gmail.com
+
 <table><tr>
 
 <td valign="top">
